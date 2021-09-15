@@ -1,0 +1,70 @@
+.typographyCaptionUppercase 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18.200000762939453px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLarge 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 28.5px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyMedium 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyCaptionBold 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 18.200000762939453px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyMediumBold 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
